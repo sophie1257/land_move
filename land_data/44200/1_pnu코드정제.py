@@ -121,7 +121,7 @@ def save_excel(df: pd.DataFrame, path: Path, sheetname="Sheet1"):
 # 1) CSV 로딩/병합
 # -----------------------------
 def read_csv_keep_strings(path: Path) -> pd.DataFrame:
-    for enc in ("utf-8-sig", "cp949", "utf-8"):
+    for enc in ("utf-8"):
         try:
             return pd.read_csv(path, dtype=str, encoding=enc)
         except Exception:
