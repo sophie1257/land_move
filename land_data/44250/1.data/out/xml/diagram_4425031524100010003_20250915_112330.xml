@@ -1,0 +1,68 @@
+<XtraSerializer version="23.2.3.0">
+  <Items>
+    <Item1 ItemKind="DiagramRoot" PageSize="800,600" SelectedStencils="BasicShapes, BasicFlowchartShapes">
+      <Children>
+        <Item2 ItemKind="DiagramShape" Position="0,30" Size="130,40" Content="도곡리" />
+        <Item3 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="130,50" EndPoint="260,50" />
+        <Item4 ItemKind="DiagramShape" Position="140,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item5 ItemKind="DiagramShape" Position="260,30" Size="130,40" Content="도곡리" />
+        <Item6 ItemKind="DiagramShape" Position="260,30" Size="130,40" Content="도곡리" />
+        <Item7 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="390,50" EndPoint="520,50" />
+        <Item8 ItemKind="DiagramShape" Position="400,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item9 ItemKind="DiagramShape" Position="520,30" Size="130,40" Content="도곡리" />
+        <Item10 ItemKind="DiagramShape" Position="520,30" Size="130,40" Content="도곡리" />
+        <Item11 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="650,50" EndPoint="780,50" />
+        <Item12 ItemKind="DiagramShape" Position="660,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item13 ItemKind="DiagramShape" Position="780,30" Size="130,40" Content="도곡리" />
+        <Item14 ItemKind="DiagramShape" Position="780,30" Size="130,40" Content="도곡리" />
+        <Item15 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="910,50" EndPoint="1040,50" />
+        <Item16 ItemKind="DiagramShape" Position="920,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item17 ItemKind="DiagramShape" Position="1040,30" Size="130,40" Content="도곡리" />
+        <Item18 ItemKind="DiagramShape" Position="1040,30" Size="130,40" Content="도곡리" />
+        <Item19 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="1170,50" EndPoint="1300,50" />
+        <Item20 ItemKind="DiagramShape" Position="1180,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item21 ItemKind="DiagramShape" Position="1300,30" Size="130,40" Content="도곡리" />
+        <Item22 ItemKind="DiagramShape" Position="1300,30" Size="130,40" Content="도곡리" />
+        <Item23 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="1430,50" EndPoint="1560,50" />
+        <Item24 ItemKind="DiagramShape" Position="1440,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item25 ItemKind="DiagramShape" Position="1560,30" Size="130,40" Content="도곡리" />
+        <Item26 ItemKind="DiagramShape" Position="1560,30" Size="130,40" Content="도곡리" />
+        <Item27 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="1690,50" EndPoint="1820,50" />
+        <Item28 ItemKind="DiagramShape" Position="1700,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item29 ItemKind="DiagramShape" Position="1820,30" Size="130,40" Content="도곡리" />
+        <Item30 ItemKind="DiagramShape" Position="1820,30" Size="130,40" Content="도곡리" />
+        <Item31 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="1950,50" EndPoint="2080,50" />
+        <Item32 ItemKind="DiagramShape" Position="1960,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item33 ItemKind="DiagramShape" Position="2080,30" Size="130,40" Content="도곡리" />
+        <Item34 ItemKind="DiagramShape" Position="2080,30" Size="130,40" Content="도곡리" />
+        <Item35 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="2210,50" EndPoint="2340,50" />
+        <Item36 ItemKind="DiagramShape" Position="2220,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item37 ItemKind="DiagramShape" Position="2340,30" Size="130,40" Content="도곡리" />
+        <Item38 ItemKind="DiagramShape" Position="2340,30" Size="130,40" Content="도곡리" />
+        <Item39 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="2470,50" EndPoint="2600,50" />
+        <Item40 ItemKind="DiagramShape" Position="2480,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item41 ItemKind="DiagramShape" Position="2600,30" Size="130,40" Content="도곡리" />
+        <Item42 ItemKind="DiagramShape" Position="2600,30" Size="130,40" Content="도곡리" />
+        <Item43 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="2730,50" EndPoint="2860,50" />
+        <Item44 ItemKind="DiagramShape" Position="2740,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item45 ItemKind="DiagramShape" Position="2860,30" Size="130,40" Content="도곡리" />
+        <Item46 ItemKind="DiagramShape" Position="2860,30" Size="130,40" Content="도곡리" />
+        <Item47 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="2990,50" EndPoint="3120,50" />
+        <Item48 ItemKind="DiagramShape" Position="3000,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item49 ItemKind="DiagramShape" Position="3120,30" Size="130,40" Content="도곡리" />
+        <Item50 ItemKind="DiagramShape" Position="3120,30" Size="130,40" Content="도곡리" />
+        <Item51 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="3250,50" EndPoint="3380,50" />
+        <Item52 ItemKind="DiagramShape" Position="3260,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item53 ItemKind="DiagramShape" Position="3380,30" Size="130,40" Content="도곡리" />
+        <Item54 ItemKind="DiagramShape" Position="3380,30" Size="130,40" Content="도곡리" />
+        <Item55 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="3510,50" EndPoint="3640,50" />
+        <Item56 ItemKind="DiagramShape" Position="3520,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item57 ItemKind="DiagramShape" Position="3640,30" Size="130,40" Content="도곡리" />
+        <Item58 ItemKind="DiagramShape" Position="3640,30" Size="130,40" Content="도곡리" />
+        <Item59 ItemKind="DiagramConnector" Points="(Empty)" BeginPoint="3770,50" EndPoint="3900,50" />
+        <Item60 ItemKind="DiagramShape" Position="3780,0" Size="100,40" FontSize="8" ThemeStyleId="Variant2" Content="분할(토지대장)&amp;#xD;&amp;#xA;20250204&amp;#xD;&amp;#xA;주식회사광산개발" />
+        <Item61 ItemKind="DiagramShape" Position="3900,30" Size="130,40" Content="도곡리" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>
